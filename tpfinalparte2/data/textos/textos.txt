@@ -1,0 +1,6 @@
+Instrucciones: \n Deberás recolectar 20 girasoles en 50 segundos. \n Pero cuidado! Si tocas una varita tu tiempo será descontado!.
+¡HAS GANADO!
+Felicidades valiente corcel. Sigue tu camino a la búsqueda de la princesa Fiona
+¡HAS PERDIDO!
+Fallaste, pero aun puedes seguir intentando!
+¡Vamos valiente corcel! ¡a por la ventura!
